@@ -6,26 +6,17 @@ A multiplayer VR game for up to 4 players, built in Unreal Engine as part of a V
 
 ## 📸 Screenshots
 
-### Overview / Map
+### Overview & Minimap system
 <!-- ADD SCREENSHOT: Wide shot of the fairytale map -->
-![Map Overview](screenshots/Screenshot%2026-05-15%180114.png)
+![Map Overview](screenshots/Screenshot%2026-05-15%180241.png)
 
-### Gameplay – Crystal & Target Area
+### Gameplay – Target Area & Shooting Wand
 <!-- ADD SCREENSHOT: Pink crystal and the ruin target area -->
-![Crystal and Target](screenshots/crystal_target.png)
+![Crystal and Target](screenshots/Screenshot%2026-05-15%180634.png)
 
-### Inventory System
+### Inventory System & Crystal
 <!-- ADD SCREENSHOT: Left hand inventory with crystal or wand -->
-![Inventory System](screenshots/inventory.png)
-
-### Minimap
-<!-- ADD SCREENSHOT: Right hand minimap (wrist gesture) -->
-![Minimap](screenshots/minimap.png)
-
-### Wand & Combat
-<!-- ADD SCREENSHOT: Player holding wand / shooting -->
-![Wand Combat](screenshots/wand.png)
-
+![Inventory System](screenshots/Screenshot%2026-05-15%180114.png)
 ---
 
 ## 🎮 Game Concept
