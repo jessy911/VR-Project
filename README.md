@@ -8,7 +8,7 @@ A multiplayer VR game for up to 4 players, built in Unreal Engine as part of a V
 
 ### Overview / Map
 <!-- ADD SCREENSHOT: Wide shot of the fairytale map -->
-![Map Overview](Screenshot 2026-05-15 180114.png)
+![Map Overview](screenshots/Screenshot 2026-05-15 180114.png)
 
 ### Gameplay – Crystal & Target Area
 <!-- ADD SCREENSHOT: Pink crystal and the ruin target area -->
