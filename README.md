@@ -58,18 +58,6 @@ The fairytale environment was built using the following assets from Fab (Unreal 
 
 ---
 
-## 🎥 Videos
-
-Two gameplay videos are available:
-
-- `video_singleplayer.mp4` – Full functionality demonstrated in single player mode
-- `video_multiplayer.mp4` – Multiplayer mode (limited functionality due to replication bugs)
-
-<!-- ADD: Upload videos to YouTube/Vimeo and link here -->
-<!-- [▶ Watch Singleplayer Gameplay](https://youtube.com/...) -->
-
----
-
 ## ⚠️ Known Limitations (Multiplayer)
 
 The game works as described in single player. In multiplayer, the following issues exist:
